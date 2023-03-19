@@ -147,7 +147,6 @@ footer li a:hover{
 @media all and (max-width:500px){
     button{
         margin-left: 0px;
-        padding: 12px 19px;
         background-color: #014655;
         border: none;
         border-radius: 50px;
